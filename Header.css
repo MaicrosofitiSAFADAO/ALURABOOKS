@@ -1,4 +1,6 @@
-.lista-menu__titulo,
+.lista-menu__titulo {
+  color: var(--laranja);
+}
 .lista-menu__item {
   padding: 1em;
   background-color: var(--branco);
